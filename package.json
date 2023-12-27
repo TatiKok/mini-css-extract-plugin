@@ -4,7 +4,7 @@
   "description": "extracts CSS into separate files",
   "license": "MIT",
   "repository": "webpack-contrib/mini-css-extract-plugin",
-  "author": "Tobias Koppers @sokra",
+  "author": "Tobias Koppers @sokkra",
   "homepage": "https://github.com/webpack-contrib/mini-css-extract-plugin",
   "bugs": "https://github.com/webpack-contrib/mini-css-extract-plugin/issues",
   "funding": {
