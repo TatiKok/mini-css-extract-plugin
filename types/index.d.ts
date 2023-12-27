@@ -23,7 +23,7 @@ declare class MiniCssExtractPlugin {
    */
   private _sortedModulesCache;
   /**
-   * @private
+  
    * @type {NormalizedPluginOptions}
    */
   private options;
